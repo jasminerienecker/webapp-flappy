@@ -1,0 +1,40 @@
+#header {
+  color: white;
+  font-size: 60px;
+}
+
+.first {
+  color: white;
+}
+
+
+#gameLink {
+  text-align: center;
+  border: 1px solid gray;
+}
+
+#credits {
+  color: white;
+}
+
+.buttons {
+  text-align: center;
+}
+
+button {
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: darkblue;
+  color: white;
+}
+
+body {
+    background-size:contain;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-image: url('gif.gif');
+}

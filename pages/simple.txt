@@ -1,0 +1,6 @@
+Welcome to Flappy Dolphin!
+
+How to play:
+- press space to swim up
+- avoid the pipes
+- if you crash into the pipes the game ends
